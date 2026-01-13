@@ -3,6 +3,7 @@
 # Result: a string
 def welcome_message(name:str) -> str:
    message = "Hello, " + name + "."
+
    return message
 
 
